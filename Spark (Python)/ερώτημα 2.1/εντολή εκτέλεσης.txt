@@ -1,3 +1,0 @@
-Η εντολή που χρησιμοποιούμε για να το τρέξουμε ειναι: 
-
- ~/spark/bin/spark-submit --master spark://master:7077 kmeansproject > finallog.log
